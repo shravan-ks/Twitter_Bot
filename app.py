@@ -43,6 +43,6 @@ class TwitterBot:
 
 
 
-run = TwitterBot('Your Email','Your Password') #email and password
+run = TwitterBot('Your Email','Your Password') #email and password respectively
 run.login()
-run.like_tweet('webdesign')
+run.like_tweet('webdesign') #your Desired Hastag
