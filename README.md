@@ -1,4 +1,5 @@
 # Twitter_Bot
+This is Simple Twitter Like Bot App that Automatically Login with your given credentials and takes your desired hastag . Search Your Hashtag and Likes all the Post/Tweets related to your Hashtag. 
 
 * Requirements :
   * Python 3.6+
