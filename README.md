@@ -13,6 +13,6 @@ This is Simple Twitter Like Bot App that Automatically Login with your given cre
     * `virtualenv env`
     * `source env/bin/activate`
     * `pip install -r requirements.txt`
-    * `python manage.py runserver`
+    * `To Run: python app.py`
     
 * Finally Add your credentials and Hastag that you like !
